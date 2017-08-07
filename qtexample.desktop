@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=QT Example
+Type=Application
+Icon=file://usr/share/icons/qtexample.svg
+Unit=qtexample
+Exec=/usr/bin/qtexample -platform wayland
